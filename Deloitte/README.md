@@ -15,8 +15,14 @@ Sheet 1: ![Bar Chart – Down Time per Factory](https://github.com/Mahadevkempe/
 
 Sheet 2: ![Bar Chart – Down Time per Device Type ](https://github.com/Mahadevkempe/Internships/blob/main/Deloitte/Sheet%202.png)
 
-# Dashboard Screenshot
-![Dashboard]()
-#  Outcome
-This task demonstrates the application of Tableau in monitoring equipment health across industrial units and identifying areas with high downtime for better maintenance planning and operational efficiency.
+# Dashboard 
+![Dashboard](https://github.com/Mahadevkempe/Internships/blob/main/Deloitte/Dashboard.png) 
+
+#  Outcome of this  Internship
+This task demonstrates the application of Tableau in monitoring equipment health across industrial units and identifying areas with high downtime for better maintenance planning and operational efficiency.  
+ # Deloitte Australia Data Analytics Job Simulation on Forage - June 2025
+   * Completed a Deloitte job simulation involving data analysis and forensic technology 
+   * Created a data dashboard using Tableau 
+   * Used Excel to classify data and draw business conclusions.
+
    
