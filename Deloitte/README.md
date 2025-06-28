@@ -13,7 +13,7 @@ To develop practical skills in data analysis and forensic technology by simulati
 
 Sheet 1: ![Bar Chart – Down Time per Factory](https://github.com/Mahadevkempe/Internships/blob/main/Deloitte/Sheet%201.png)
 
-Sheet 2: ![Bar Chart – Down Time per Device Type] (https://github.com/Mahadevkempe/Internships/blob/main/Deloitte/Sheet%202.png)
+Sheet 2: ![Bar Chart – Down Time per Device Type ](https://github.com/Mahadevkempe/Internships/blob/main/Deloitte/Sheet%202.png)
 
 
 
